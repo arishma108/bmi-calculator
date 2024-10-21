@@ -6,4 +6,4 @@ A simple BMI app !
 
 
 
-<img src="https://github.com/arishma108/bmi-calculator/blob/main/.devcontainer/bmi.jpg" width="100%" height="100%">
+<img src="https://github.com/arishma108/bmi-calculator/blob/main/.devcontainer/bmi.jpg" width="50%" height="50%">
