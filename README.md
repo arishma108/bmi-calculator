@@ -6,4 +6,4 @@ A simple BMI app !
 
 
 
-<iframe src="https://humble-space-fishstick-j4rpwgpw96q2wvg-8501.app.github.dev" width="600" height="400"></iframe>
+<img src="https://github.com/arishma108/bmi-calculator/blob/main/.devcontainer/bmi.jpg" width="600" height="400">
