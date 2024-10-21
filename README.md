@@ -1,8 +1,8 @@
-# 🎈 Blank app template
+# 🎈 BMI app 
 
-A simple Streamlit app template for you to modify!
+A simple Streamlit app !
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+[![Open in Streamlit](https://humble-space-fishstick-j4rpwgpw96q2wvg-8501.app.github.dev//)
 
 ### How to run it on your own machine
 
