@@ -2,7 +2,7 @@
 
 A simple Streamlit app !
 
-[![Open in Streamlit](https://humble-space-fishstick-j4rpwgpw96q2wvg-8501.app.github.dev//)
+(https://humble-space-fishstick-j4rpwgpw96q2wvg-8501.app.github.dev)
 
 ### How to run it on your own machine
 
